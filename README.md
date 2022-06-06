@@ -90,3 +90,5 @@ iii.	Age has a relatively positive correlation with occupation, marital status, 
 
 iv.	The user’s purchase amount has a negative correlation with product category 1
  
+
+Data Source : https://www.kaggle.com/datasets/sdolezel/black-friday
