@@ -53,7 +53,7 @@ Rank of **User’s Average Purchase amount**
 |1001349|	18162.739130 |	23 |
 |1000101|	17511.369231 |	65 |
 
-According to the tables above, the user who has the highest purchase amount is not the one who spends the most at one time but the one who **frequently purchases.
+According to the tables above, the user who has the highest purchase amount is not the one who spends the most at one time but the one who **frequently purchases**.
 
 #### Overall Transaction Data Analysis
 i. Rank of **Product’s sales**
@@ -90,5 +90,6 @@ iii.	Age has a relatively positive correlation with occupation, marital status, 
 
 iv.	The user’s purchase amount has a negative correlation with product category 1
  
+
 
 Data Source : https://www.kaggle.com/datasets/sdolezel/black-friday
