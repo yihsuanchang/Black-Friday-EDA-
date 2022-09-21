@@ -6,8 +6,6 @@ i.	Change Data type
 
 Turn columns that mixes with strings and numbers to numeric data: Age -> Age_group 
 
-ii.	Use Python Package to make an EDA report
-http://localhost:8888/view/EDA_BlackFriday_report.html
 
 ### Analyze Data
 #### Data Description
